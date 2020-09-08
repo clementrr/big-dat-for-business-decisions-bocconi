@@ -1,1 +1,1 @@
-# big-dat-for-business-decisions-bocconi
+# big-data-for-business-decisions-bocconi
